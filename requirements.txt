@@ -1,6 +1,8 @@
-traceback
-typing
-langchain_core
+fastapi
+uvicorn
+langserve
+langchain
+langchain-core
 langgraph
-langchain_google_genai
+langchain-google-genai
 sse_starlette
