@@ -1,0 +1,6 @@
+traceback
+typing
+langchain_core
+langgraph
+langchain_google_genai
+sse_starlette
