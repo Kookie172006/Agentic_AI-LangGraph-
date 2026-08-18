@@ -5,4 +5,4 @@ langchain
 langchain-core
 langgraph
 langchain-google-genai
-sse_starlette
+sse-starlette
